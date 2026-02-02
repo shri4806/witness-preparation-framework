@@ -1,0 +1,544 @@
+case_id,witness_id,stage,question,answer,risk_label
+C001,W01,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C001,W02,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C001,W03,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C001,W04,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C001,W05,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C001,W06,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C001,W07,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C001,W08,examination,How are you related to the victim?,The victim was my neighbor.,low
+C001,W09,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C001,W10,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C002,W01,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C002,W02,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C002,W03,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C002,W04,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C002,W05,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C002,W06,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C002,W07,examination,How are you related to the victim?,The victim was my neighbor.,low
+C002,W08,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C002,W09,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C002,W10,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C003,W01,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C003,W02,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C003,W03,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C003,W04,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C003,W05,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C003,W06,examination,How are you related to the victim?,The victim was my neighbor.,low
+C003,W07,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C003,W08,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C003,W09,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C003,W10,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C004,W01,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C004,W02,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C004,W03,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C004,W04,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C004,W05,examination,How are you related to the victim?,The victim was my neighbor.,low
+C004,W06,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C004,W07,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C004,W08,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C004,W09,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C004,W10,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C005,W01,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C005,W02,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C005,W03,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C005,W04,examination,How are you related to the victim?,The victim was my neighbor.,low
+C005,W05,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C005,W06,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C005,W07,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C005,W08,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C005,W09,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C005,W10,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C006,W01,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C006,W02,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C006,W03,examination,How are you related to the victim?,The victim was my neighbor.,low
+C006,W04,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C006,W05,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C006,W06,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C006,W07,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C006,W08,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C006,W09,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C006,W10,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C007,W01,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C007,W02,examination,How are you related to the victim?,The victim was my neighbor.,low
+C007,W03,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C007,W04,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C007,W05,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C007,W06,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C007,W07,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C007,W08,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C007,W09,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C007,W10,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C008,W01,examination,How are you related to the victim?,The victim was my neighbor.,low
+C008,W02,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C008,W03,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C008,W04,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C008,W05,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C008,W06,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C008,W07,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C008,W08,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C008,W09,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C008,W10,examination,How are you related to the victim?,The victim was my neighbor.,low
+C009,W01,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C009,W02,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C009,W03,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C009,W04,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C009,W05,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C009,W06,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C009,W07,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C009,W08,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C009,W09,examination,How are you related to the victim?,The victim was my neighbor.,low
+C009,W10,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C010,W01,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C010,W02,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C010,W03,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C010,W04,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C010,W05,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C010,W06,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C010,W07,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C010,W08,examination,How are you related to the victim?,The victim was my neighbor.,low
+C010,W09,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C010,W10,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C011,W01,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C011,W02,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C011,W03,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C011,W04,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C011,W05,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C011,W06,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C011,W07,examination,How are you related to the victim?,The victim was my neighbor.,low
+C011,W08,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C011,W09,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C011,W10,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C012,W01,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C012,W02,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C012,W03,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C012,W04,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C012,W05,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C012,W06,examination,How are you related to the victim?,The victim was my neighbor.,low
+C012,W07,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C012,W08,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C012,W09,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C012,W10,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C013,W01,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C013,W02,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C013,W03,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C013,W04,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C013,W05,examination,How are you related to the victim?,The victim was my neighbor.,low
+C013,W06,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C013,W07,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C013,W08,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C013,W09,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C013,W10,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C014,W01,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C014,W02,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C014,W03,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C014,W04,examination,How are you related to the victim?,The victim was my neighbor.,low
+C014,W05,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C014,W06,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C014,W07,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C014,W08,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C014,W09,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C014,W10,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C015,W01,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C015,W02,cross_examination,Did you inform the police immediately?,"No, I informed the police the next morning.",high
+C015,W03,examination,How are you related to the victim?,The victim was my neighbor.,low
+C015,W04,cross_examination,Are you stating this based on what others told you?,"Yes, some facts were told to me by others.",high
+C015,W05,examination,Where were you at the time of the incident?,I was present near the place of occurrence.,low
+C015,W06,examination,At what time did the incident occur?,The incident occurred at about 7:30 PM.,low
+C015,W07,examination,Did you see the accused at the spot?,"Yes, I saw the accused near the victim.",low
+C015,W08,cross_examination,Was it dark at that time?,"Yes, it was getting dark.",low
+C015,W09,cross_examination,Can you identify the accused with certainty?,"I believe it was him, but I cannot be completely sure.",high
+C015,W10,examination,What weapon did the accused carry?,The accused was carrying a wooden stick.,low
+C016,W07,examination,On what date and time did the incident take place?,The incident took place on 08.09.1992 at about 12:15 PM.,low
+C016,W07,examination,Where were you going at the time of the incident?,I was going to Darbhanga along with the deceased.,low
+C016,W07,examination,How much money were you carrying and for what purpose?,"I was carrying Rs.7,500 in my bag for purchasing tractor spare parts and for medical treatment.",low
+C016,W07,examination,Where did the incident occur?,"The incident occurred in front of the house of accused Tripit Narayan Jha at village Antaur under P.S. Bahera, district Darbhanga.",low
+C016,W07,examination,What happened when you reached the place of occurrence?,All five accused persons were sitting there and accused Tripit Narayan Jha ordered the others to kill us.,low
+C016,W07,examination,Which accused persons were armed and with what weapons?,"Arun Kumar Jha, Palan Jha and Sitaram Jha were armed with farsa, and Durganand Jha was armed with lathi.",low
+C016,W07,examination,What injury was caused to the deceased?,"Arun Kumar Jha gave a farsa blow on the head of the deceased, causing a head injury and fall.",low
+C016,W07,examination,Were you also assaulted during the incident?,"Yes, Sitaram Jha attempted a farsa blow on my neck, which struck my leg and caused a cut injury.",low
+C016,W07,examination,Did anyone come to rescue you during the incident?,"Yes, my nephew Manoj Kumar Jha came for rescue but was assaulted and injured on both wrists.",low
+C016,W07,examination,Was any property taken during the incident?,"Tripit Narayan Jha snatched my bag containing Rs.7,500 and Durganand Jha took the wrist watch of the deceased.",low
+C016,W07,examination,What happened after the assault?,Prosecution witnesses arrived and chased away the accused persons.,low
+C016,W07,examination,What was the motive for the occurrence?,The motive was a dispute arising out of exchange of lands between the parties.,low
+C017,W01,examination,What did public persons and neighbors do when the accused were present?,They apprehended the accused persons.,low
+C017,W01,cross_examination,Did you say the lock was broken and lying on the ground?,"Yes, I said the lock was broken and lying on the ground.",low
+C017,W01,cross_examination,Do the photographs show the lock lying on the ground?,"No, the photographs do not show the lock lying on the ground.",low
+C018,W01,examination,Were you threatened before the accused took your money?,"Yes, I was threatened with false implication before they took my money.",low
+C018,W01,examination,What happened to your money during the incident?,The accused took the money out of my pocket.,low
+C018,W01,examination,Did your original complaint mention confinement?,"Yes, my initial complaint included wrongful confinement.",high
+C019,W02,examination,What did you witness at 03:30 p.m. near the accused’s house?,I saw the accused inflicting blows on Mazidur Rahman with a dao and he died on the spot.,low
+C019,W02,examination,When did you file FIR after the incident?,I filed the FIR on the same day of the incident.,low
+C019,W02,cross_examination,How far is your house from the place of occurrence?,About half a kilometre away.,low
+C019,W02,cross_examination,What happened when the accused threatened you?,I ran up to about one hundred metres from the place of occurrence to avoid him.,low
+C020,W01,examination,What duty were you on when the incident occurred?,I was on patrolling duty with Constable Kuldeep.,low
+C020,W01,examination,"At what time did you reach Kardampuri, Nala Road?",We reached there at about 8 pm.,low
+C020,W01,examination,What did you observe near Nala Road?,We saw a boy walking fast and apprehended him.,low
+C021,W01,examination,Were you threatened before the accused took your money?,"Yes, I was threatened with false implication.",low
+C021,W01,examination,What happened to your money during the incident?,The accused took my money from my pocket.,low
+C021,W01,examination,Did your initial complaint mention any wrongful confinement?,"Yes, my initial complaint said I was wrongfully confined.",high
+C022,W01,examination,When did you discover the cheques were lost?,I found that 5-6 cheques were lost in August-September 2017.,low
+C022,W01,cross_examination,What does the lost article report state about the date of cheque loss?,The report says 29.10.2017.,high
+C022,W01,cross_examination,Did you explain why you delayed reporting?,I did not explain why I waited one month to give the report.,high
+C023,W03,examination,Where were you at the time of the incident?,I was returning from the market near the village pond.,low
+C023,W03,examination,What did you see near the village pond?,I saw the accused quarreling with and assaulting the deceased.,low
+C023,W03,examination,What weapon was used in the assault?,The accused assaulted the deceased with a wooden stick.,low
+C023,W03,cross_examination,Was the lighting sufficient at the place of occurrence?,"No, there was poor lighting near the pond.",high
+C023,W03,cross_examination,Were other villagers present at the spot?,"Yes, several villagers had gathered there.",low
+C024,W05,examination,How did you reach the place of occurrence?,I reached the spot after hearing shouts from villagers.,low
+C024,W05,examination,What did you see when you reached the spot?,I saw the injured lying on the ground.,low
+C024,W05,examination,What happened to the injured thereafter?,The injured was taken to the hospital by villagers.,low
+C024,W05,cross_examination,Did you witness the actual assault?,"No, I did not witness the actual assault.",high
+C024,W05,cross_examination,How did you know about the accused’s involvement?,I came to know about it from other persons present there.,high
+C025,W01,examination,At what time did the occurrence take place?,The occurrence took place at about 9:00 PM.,low
+C025,W01,examination,When was the FIR lodged?,The FIR was lodged the next morning at about 10:00 AM.,low
+C025,W01,examination,Why did you not lodge the FIR immediately?,I was frightened and confused after the incident.,low
+C025,W01,cross_examination,How far is the police station from the place of occurrence?,The police station is about two kilometers away.,high
+C026,W06,examination,What relationship do you have with the deceased Ambily?,She was my daughter-in-law and also closely related to me.,low
+C026,W06,examination,Where were the accused and deceased residing at the time of incident?,They were residing in our house along with family members.,low
+C026,W06,examination,What did you hear on the night of the incident?,I heard groans and grunts from the room occupied by the accused and the deceased.,low
+C026,W06,examination,What did you see when you went near the room?,I found Ambily engulfed in fire and the accused was not present in the room.,low
+C026,W06,examination,What did you do after seeing the victim on fire?,I attempted to douse the fire and the victim was taken to the hospital.,low
+C026,W06,cross_examination,Did you give a statement implicating the accused earlier?,"Yes, I had given such a statement earlier but I retract it now.",high
+C026,W06,cross_examination,Did you give a statement before a Magistrate under Section 164 Cr.P.C.?,I signed it but it was given under threat and coercion.,high
+C026,W07,examination,Did you notice any dispute between the accused and the deceased?,"No, I did not notice any serious dispute between them.",low
+C027,W03,examination,Why did you submit a written report to the police?,I was not satisfied with the earlier report and suspected foul play.,low
+C027,W03,examination,On what date did you submit the written report?,"I submitted the written report on 13th May, 1990.",low
+C027,W03,examination,Where had you gone on the day of the incident?,I had gone to the Jatra fete at village Jhinjri for selling sweets.,low
+C027,W03,examination,Who accompanied you to the Jatra fete?,I went along with my son Gajendra.,low
+C027,W03,examination,At what time did you leave for your home?,We left for our home at about 7:00 p.m.,low
+C027,W03,examination,Who were accompanying you while returning home?,"Ashok Sahu, Khakhandu Sahu and Jatan Sahu were accompanying us.",low
+C027,W03,examination,Where were you when the assailants confronted you?,We were at Dumphu at about 7:30 p.m.,low
+C027,W03,examination,How many assailants came in front of you and what were they armed with?,Four to five men came armed with wooden sticks and hockey sticks.,low
+C027,W03,examination,What caused your son to fall from the bicycle?,One assailant inserted a stick into the wheel of his bicycle.,low
+C027,W03,examination,What did the assailants do after your son fell down?,They caught hold of him and dragged him towards a nearby pit.,low
+C027,W03,examination,Why did you and others step back instead of following them?,We were threatened with death and stepped back out of fear.,low
+C027,W03,examination,Did you hear your son shouting during the assault?,"Yes, I heard him shouting “Don’t beat me, leave me Aditya, leave me Suresh.”",low
+C027,W03,examination,Were you able to save your son?,"No, being old, infirm and having weak eyesight, I could not save him.",high
+C027,W03,examination,What condition was your son found in after the assailants left?,He was lying soaked in blood with heavy bleeding from his forehead.,low
+C027,W03,examination,Did your son name the assailants after the incident?,"Yes, he stated that Suresh and Aditya along with others had beaten him.",low
+C027,W03,examination,Where was your son taken after the incident?,"He was taken to R.M.C.H., Ranchi.",low
+C027,W03,examination,What happened to your son at the hospital?,"He died on 12th May, 1990.",low
+C027,W03,examination,Was a post-mortem conducted on the body?,"Yes, a post-mortem examination was conducted.",low
+C027,W03,examination,What was the motive behind the assault according to you?,There was enmity due to a pending employment dispute related to land acquisition.,low
+C028,W01,examination,Were you present at the scene of the incident?,"Yes, I was present at the spot when the assault took place.",low
+C028,W01,examination,What did you see the accused doing?,I saw the accused firing at the deceased with a firearm.,low
+C028,W01,examination,Was there sufficient light to identify the accused?,"Yes, there was sufficient light and I could clearly identify him.",low
+C028,W01,examination,Did you have any enmity with the accused?,"No, I had no prior enmity with the accused.",low
+C029,W02,examination,Did you witness the incident?,"Yes, I witnessed the accused assaulting the deceased.",low
+C029,W02,examination,Did you immediately inform the police?,"No, I did not inform the police immediately due to fear.",high
+C029,W02,examination,Where were you positioned during the incident?,I was standing at a short distance from the place of occurrence.,low
+C029,W02,cross_examination,Why did you not intervene during the assault?,I was frightened and feared for my own safety.,high
+C030,W06,examination,Which case was registered on the basis of your fardbeyan?,Sonbarsa P.S. Case No. 56 of 1994 was registered.,low
+C030,W06,examination,Under which sections were the offences initially registered?,"Sections 147, 148, 149, 324, 307 IPC, Section 27 of Arms Act and Sections 3/4 of Explosive Substances Act.",low
+C030,W06,examination,Why was Section 302 IPC later added to the case?,"Because the victim later died, Section 302 IPC was added by court order.",low
+C030,W06,examination,At what time was your fardbeyan recorded?,My fardbeyan was recorded at about 11:35 AM.,low
+C030,W06,examination,What were you and your son doing in the morning of 02.07.1994?,We were uprooting seeds for sowing millet.,low
+C030,W06,examination,What incident occurred in the paddy field?,Accused Ramchandra Rai took his cattle through our paddy field which was objected to by my son.,low
+C030,W06,examination,What was the reaction of accused Ramchandra Rai to the objection?,He abused my son and entered into an altercation.,low
+C030,W06,examination,What happened when your son was returning with food for labourers?,"When he reached near a tree, Ramchandra Rai opened fire with his pistol.",low
+C030,W06,examination,Where did the firearm injury hit the deceased?,The firearm injury hit his right elbow.,low
+C030,W06,examination,What act was committed by Pramod Rai?,Pramod Rai hurled a bomb causing injury to the stomach of the deceased.,low
+C030,W06,examination,What further act was committed by Ramchandra Rai?,He again fired a shot with his pistol.,low
+C030,W06,examination,Who were present at the place of occurrence?,"Gajendra Rai, Raj Kishore Rai, Chandeshwar Rai and Umesh Rai were standing there.",low
+C030,W06,examination,What happened when Ram Dayal Rai tried to save the deceased?,"On exhortation, Umesh Rai hurled a bomb at him, but he escaped.",low
+C030,W06,examination,What was the motive for the occurrence according to you?,There was a dispute over drainage of water for which a panchayati was held 10 days earlier.,low
+C031,W01,examination,On what date and time did the incident occur?,On 30.07.2009 at about 12:45 hours.,low
+C031,W01,examination,How was the deceased allegedly killed?,The accused strangulated him using a kerchief and squeezed his throat.,low
+C031,W01,examination,What offence was registered against the accused?,An offence under Section 302 IPC was registered.,low
+C031,W01,examination,What is the relationship between PW.1 and the accused?,PW.1 is the wife of the accused and mother of the deceased.,low
+C031,W02,examination,What did PW.2 witness while returning from his shop?,He saw the accused sitting on the chest of the deceased and strangulating him with a kerchief.,low
+C031,W02,examination,What did the accused do after seeing PW.2?,The accused ran away from the scene.,low
+C031,W02,examination,Who took the deceased to the hospital?,"PW.2 took the deceased to PW.4, the RMP doctor.",low
+C031,W04,examination,What was the condition of the deceased when brought to the hospital?,He was brought dead with a ligature mark on his neck.,low
+C031,W14,examination,Who registered the FIR in this case?,"PW.14, the Assistant Sub-Inspector of Police.",low
+C031,W14,examination,What was the crime number assigned?,Crime No. 158 of 2009.,low
+C031,W14,examination,What documents were prepared at the scene of offence?,Rough sketch Ex.P7 and scene panchanama Ex.P6 were prepared.,low
+C031,W15,examination,What was done after taking over investigation?,Inquest was conducted and the body sent for autopsy.,low
+C031,W15,examination,What material object was seized from the accused?,MO.3 kerchief was seized.,low
+C031,W13,examination,What injuries were found during post-mortem?,Four injuries were found on the body.,low
+C031,W13,examination,What was the cause of death?,Death was due to strangulation.,low
+C031,W13,examination,Did the doctor specify whether injuries were ante-mortem?,"No, it was not specified.",low
+C031,W09,cross_examination,Did the house of PW.1 have a window?,"No, the house of PW.1 had no window.",high
+C031,W02,cross_examination,How did you witness the incident if there was no window?,He claimed to have peeped through a window.,high
+C031,W01,cross_examination,Did PW.1 hand over the kerchief to police?,"Yes, she stated she handed over the kerchief.",high
+C031,W01,cross_examination,Was it suggested that PW.1 and PW.2 strangulated the deceased?,"Yes, the defence suggested this, which PW.1 denied.",high
+C032,W02,examination,Who informed the police about the incident?,I informed the police after suspecting my daughter was locked in the bathroom.,low
+C032,W02,examination,What did the accused say when asked to open the bathroom door?,He said he had murdered my daughter and would not open the door.,low
+C032,W02,examination,What was found when the bathroom door was opened?,The dead body of my daughter was found in a pool of blood in the bathtub.,low
+C032,W02,examination,Was the accused present at the scene?,"Yes, the accused was found inside the bathroom holding a blood-stained knife.",low
+C032,W04,examination,What information was recorded in the DD entry?,Information was received that the tutor had confined a girl in the bathroom and was not opening the door.,low
+C032,W04,examination,At what time was the DD entry recorded?,At about 11:20 PM on 19.04.1999.,low
+C032,W09,examination,What was the cause of death of the deceased?,Death was due to shock resulting from multiple incised injuries.,low
+C032,W09,examination,Were the injuries ante-mortem or post-mortem?,All injuries were ante-mortem in nature.,low
+C032,W09,examination,Could the injuries be caused by the recovered knife?,"Yes, injuries could have been caused by the knife recovered from the accused.",low
+C032,W12,examination,What did you photograph at the scene of offence?,I photographed the dead body and the bathroom where it was found.,low
+C032,W18,examination,What action did you take at the scene of offence?,I broke open the bathroom door and found the accused with a knife near the dead body.,low
+C032,W18,examination,What articles were seized from the accused?,"A knife, shirt, and vest worn by the accused were seized.",low
+C032,W18,examination,Was the FIR registered based on the informant’s statement?,"Yes, FIR No. 235/1999 was registered based on the statement of Anil Garg.",low
+C032,W02,cross_examination,Did you attempt to break the bathroom door before police arrived?,"No, we waited for the police to arrive.",high
+C032,W09,cross_examination,Is it possible that injuries were caused by more than one weapon?,"Yes, it is possible.",high
+C032,W18,cross_examination,Were the broken buttons of the accused’s shirt recovered?,"No, the broken buttons were not recovered.",high
+C033,W25,examination,What information did you receive on 22.08.2002?,A public person informed that two persons were stabbing a man near Haryana Emporium.,low
+C033,W25,examination,What did you see on reaching the spot?,I saw two accused holding knives and stabbing the deceased.,low
+C033,W25,examination,What did the accused do on seeing police?,They tried to flee from the spot.,low
+C033,W25,examination,What was recovered from the accused?,One blood-stained knife from each accused.,low
+C033,W17,examination,Were you present with PW-25 during patrolling?,"Yes, I was patrolling with ASI Suresh Chand.",low
+C033,W17,examination,What did you witness at the scene?,The accused were stabbing the deceased with knives.,low
+C033,W17,examination,What was the condition of the accused?,Their clothes were stained with blood.,low
+C033,W04,examination,What did you do on hearing alarm calls?,I chased and apprehended accused Ramesh Kumar.,low
+C033,W04,examination,What was recovered from the accused?,A blood-stained knife was recovered from his hand.,low
+C033,W16,examination,Whom did you apprehend?,I apprehended co-accused Raja Ram near the mosque.,low
+C033,W16,examination,What was found with him?,He was holding a blood-stained knife.,low
+C033,W21,examination,How many injuries were found on the deceased?,Eight ante-mortem injuries were found.,low
+C033,W21,examination,What was the cause of death?,Death was due to haemorrhagic shock caused by injuries.,low
+C033,W21,examination,Were the injuries sufficient to cause death?,"Yes, injuries were sufficient in the ordinary course of nature.",low
+C033,W25,cross_examination,Were public witnesses joined at the spot?,No public witness agreed to join investigation.,high
+C033,W17,cross_examination,Were there people present at the scene?,"Yes, but none agreed to join.",high
+C033,W04,cross_examination,Was the accused apprehended immediately?,"Yes, during chase from the spot.",low
+C034,W02,examination,Where were you at the time of the incident?,"I was outside my house in Gali No.300, Jahangir Puri.",low
+C034,W02,examination,What was the dispute before the incident?,There was an altercation regarding teasing of Satpal’s daughter.,low
+C034,W02,examination,Who came to the spot during the quarrel?,"Shri Kishan, his son Sunil, Babu Ram and Ravinder came.",low
+C034,W02,examination,What happened after the accused went away initially?,They went to the roof and exhorted Babu Ram to fire.,low
+C034,W02,examination,What weapon was used?,Babu Ram fired from a gun.,low
+C034,W02,examination,Did you suffer any injury?,"Yes, I suffered a gunshot injury on my leg.",low
+C034,W08,examination,What did the accused do after the quarrel?,They went to the roof of Babu Ram’s house.,low
+C034,W08,examination,Who exhorted Babu Ram to fire?,"Shri Kishan, Sunil, Ravinder and Vijay exhorted him.",low
+C034,W08,examination,Who were injured in the firing?,"Mangat Ram, Anil and Vijay were hit.",low
+C034,W09,examination,From where did you see the incident?,From the roof of Mangat Ram’s house.,low
+C034,W09,examination,What did Babu Ram do?,He fired indiscriminately at the people below.,low
+C034,W09,examination,What was the result of the firing?,Anil and Vijay died due to gunshot injuries.,low
+C034,W13,examination,What did you see during the incident?,Babu Ram fired shots while others exhorted him.,low
+C034,W13,examination,Did you receive injuries?,"Yes, I received bullet injuries on my abdomen and buttocks.",low
+C034,W14,examination,Where did the firing take place?,"In Gali No.300, Jahangir Puri.",low
+C034,W14,examination,Who fired the shots?,Babu Ram fired the shots with a gun.,low
+C034,W14,examination,Were others also injured?,"Yes, several persons including me were injured.",low
+C034,W15,examination,Who pointed out the victims to the shooter?,Sunil and Shri Kishan pointed out Anil and Mangat Ram.,low
+C034,W15,examination,What happened to Anil?,Anil was shot and later died.,low
+C034,W17,examination,Where were you during the incident?,I was present in Gali No.300.,low
+C034,W17,examination,What injury did you suffer?,A bullet hit my left eye.,low
+C034,W17,cross_examination,What was the situation at the spot?,There was panic and people were running and pelting stones.,high
+C034,W18,examination,In what condition was Mangat Ram brought to the hospital?,He was brought with a gunshot injury on his leg.,low
+C034,W18,examination,What treatment did you provide?,I provided first aid and referred him for further treatment.,low
+C034,W18,examination,Were the injuries consistent with firearm use?,"Yes, the injuries were consistent with firearm injuries.",low
+C034,W19,examination,On which bodies did you conduct post-mortem examination?,On the bodies of Anil and Vijay.,low
+C034,W19,examination,What was the cause of death?,Death was due to hemorrhagic shock caused by gunshot injuries.,low
+C034,W19,examination,Were the injuries sufficient to cause death in ordinary course?,"Yes, the injuries were sufficient to cause death.",low
+C034,W20,examination,What duty were you performing on the date of incident?,I was posted as duty officer at the police station.,low
+C034,W20,examination,What FIRs were registered?,FIR Nos. 561/1998 and 562/1998 were registered.,low
+C034,W20,examination,On whose statement were FIRs registered?,FIRs were registered on the statement of Mangat Ram.,low
+C034,W21,examination,What was the first step you took in investigation?,I reached the spot and inspected the scene of occurrence.,low
+C034,W21,examination,What articles were seized from the spot?,Blood-stained earth and empty cartridges were seized.,low
+C034,W21,examination,What document did you prepare at the spot?,I prepared the site plan.,low
+C034,W22,examination,Were you present during recovery of weapon?,"Yes, I was present during recovery of the gun.",low
+C034,W22,examination,From where was the gun recovered?,The gun was recovered from the house of accused Babu Ram.,low
+C034,W22,examination,What was the condition of the gun?,The gun was in working condition.,low
+C034,W23,examination,What articles did you examine?,"The gun, cartridges and bullets were examined.",low
+C034,W23,examination,What was your opinion?,The cartridges were fired from the recovered gun.,low
+C034,W21,cross_examination,Did you join any independent public witness during seizure?,No independent public witness was joined.,high
+C034,W21,cross_examination,Was the site plan prepared at the instance of an eyewitness?,"No, it was prepared based on my observation.",high
+C035,W2,examination,When did your wife go missing?,On 07.02.2007 at about 5:00 PM.,low
+C035,W2,examination,With whom did she leave the beauty parlour?,She left with accused Anju.,low
+C035,W2,examination,What complaint did you lodge first?,A missing person complaint.,low
+C035,W2,examination,What articles was your wife wearing?,"Gold rings, bangles, chains, earrings and slippers.",low
+C035,W2,examination,Did you identify recovered jewellery?,"Yes, I identified jewellery belonging to my wife.",low
+C035,W2,examination,Did you identify any mobile phone?,"Yes, Nokia phone recovered belonged to my wife.",low
+C035,W3,examination,Who was Anil Kumar to you?,He was my employee.,low
+C035,W3,examination,Did you give SIM card to Anil?,"No, I did not.",high
+C035,W4,examination,What did Anil hand over to you?,A Nokia mobile phone.,low
+C035,W4,examination,When was it seized?,On 26.02.2007 by police.,low
+C035,W9,examination,Did you purchase a mobile phone?,"Yes, from a person in Bareilly.",low
+C035,W9,cross_examination,Did you buy it from Anil?,"No, I did not buy it from Anil.",high
+C035,W10,examination,Who hired your TSR on 07.02.2007?,Prem Pal hired my TSR.,low
+C035,W10,examination,Who all travelled in the TSR?,"Anil, Anju, Prem Pal and a lady.",low
+C035,W10,examination,What condition was the lady in?,She was vomiting.,high
+C035,W10,cross_examination,Did you earlier say Prem Pal was alone?,"Yes, in my Section 164 statement.",high
+C035,W11,examination,Did accused sell jewellery to you?,"Yes, two bangles and a ring were sold.",low
+C035,W11,cross_examination,Can you identify the accused?,"No, I cannot identify them.",high
+C035,W14,examination,What work did your mother do?,She ran a beauty parlour.,low
+C035,W14,examination,Who came to the parlour on 07.02.2007?,Accused Anju came.,low
+C035,W14,examination,Did Anju make a call before leaving?,"Yes, from a nearby STD booth.",low
+C035,W14,examination,Did you identify jewellery?,"Some jewellery yes, bangles no.",high
+C035,W23,examination,What records did you provide?,Call detail records of two mobile numbers.,low
+C035,W23,examination,Were IMEI numbers traced?,"Yes, IMEI numbers were identified.",low
+C035,W28,examination,What step did you take after suspicion on Anju?,I traced her residence and family.,low
+C035,W28,examination,What was written on the photograph?,Mobile number 9999453703.,low
+C035,W28,examination,Were accused absconding?,"Yes, leaving behind their child.",low
+C035,W30,examination,Where was the dead body found?,"PS Loni, Ghaziabad.",low
+C035,W30,examination,Was the body identified immediately?,"No, it was unidentified.",low
+C035,W31,examination,What was the cause of death?,Death due to asphyxia.,low
+C035,PW31,examination,Were injuries animal-caused?,"Yes, facial injuries were post-death.",low
+C036,W01,examination,Where did the incident take place?,The incident took place on Bara Bazar Street near shop No.512.,low
+C036,W01,examination,When did the incident occur?,On 24.05.1985 at about 4:00 PM.,low
+C036,W01,examination,What caused the quarrel?,A dispute arising after a Food Department raid.,low
+C036,W01,examination,Who attacked your group?,Members of Murari Lal’s group attacked us.,low
+C036,W01,examination,What weapons were used?,"Dandas, bottles and blunt objects were used.",low
+C036,W02,examination,Did you receive injuries in the incident?,"Yes, I received a lacerated injury on my head.",low
+C036,W02,examination,Where were you standing at that time?,I was standing between shop No.512 and shop No.518.,low
+C036,W02,examination,Were any shops damaged?,"No, no shops were damaged.",low
+C036,W03,examination,What information did you receive initially?,I received information of rioting between two groups.,low
+C036,W03,examination,What DD entry was recorded?,DD No.24-A was recorded at 4:05 PM.,low
+C036,W03,examination,How many FIRs were registered?,"Two FIRs were registered, No.183/1985 and 184/1985.",low
+C036,W03,examination,Whose statements were recorded?,Statements of Vijay Kumar and Murari Lal were recorded.,low
+C036,W04,examination,What injury did you suffer?,I suffered a lacerated wound on the back of my head.,low
+C036,W04,examination,What type of weapons were used?,Blunt objects were used.,low
+C036,W05,examination,Did you receive injuries?,"Yes, I suffered lacerated injuries and abrasions.",low
+C036,W05,examination,Where were you injured?,On my head and lip.,low
+C036,W06,examination,Who poured hot oil on Ashok?,Vijay poured hot oil on Ashok.,low
+C036,W06,examination,From where was the oil taken?,From a nearby namkeen shop.,low
+C036,W07,examination,What weapon was Rajesh carrying?,Rajesh was carrying a palta.,low
+C036,W07,examination,Whom did Rajesh hit with the palta?,Rajesh hit Murari Lal.,low
+C036,W09,examination,Who caused burn injuries to Ashok?,Vijay caused burn injuries by pouring hot oil.,low
+C036,W09,examination,Who injured Murari Lal’s finger?,Rajesh injured Murari Lal’s finger with a palta.,low
+C036,W10,examination,Were weapons brought from outside?,"No, objects lying nearby were used.",low
+C036,W10,examination,Was the fight sudden?,"Yes, it was a sudden mutual fight.",low
+C036,W31,examination,What was the cause of Ashok’s death?,Septicaemia due to burn injuries.,low
+C036,W31,examination,What percentage of burns were present?,About 30–40% burns were present.,low
+C036,W31,examination,Were the injuries sufficient to cause death?,"Yes, they were sufficient to cause death.",low
+C037,W01,examination,How did you know the deceased Surender Lal Dev?,He was my neighbour and I helped him get a job at a sweet shop.,low
+C037,W01,examination,When did the deceased leave his job?,He left the job on 30.06.2013 after settling dues.,low
+C037,W01,examination,When did you last visit the accused house before the incident?,I visited the house on 23.11.2013 in the evening.,low
+C037,W01,examination,What happened during the night of 23.11.2013?,A quarrel took place among the accused persons.,medium
+C037,W01,examination,What did accused Md. Aslam say during the quarrel?,He said he would dig out the dead body and implicate others.,high
+C037,W01,examination,What information were you given earlier about the deceased?,I was told he had gone to Lucknow or Kanpur.,medium
+C037,W01,cross_examination,Did you see the murder take place?,"No, I did not witness the murder.",low
+C037,W02,examination,What information was received on 24.11.2013?,A call about a quarrel at Bhagya Vihar was received.,low
+C037,W02,examination,What DD number was recorded?,DD No.16A was recorded.,low
+C037,W03,examination,Where did you go after receiving DD No.16A?,"I went to the house near Shiv Temple, Bhagya Vihar.",low
+C037,W03,examination,What was recovered from the house?,A decomposed body was recovered from the septic tank.,high
+C037,W03,examination,In what condition was the body?,The body was reduced to a skeleton.,high
+C037,W04,examination,What action did you take after reaching the spot?,I took over investigation and recorded witness statements.,low
+C037,W04,examination,Was any confession made by the accused?,Confessional statements were made but no recovery followed.,high
+C037,W04,examination,Was FIR registered in this case?,"Yes, FIR was registered for murder.",low
+C037,W05,examination,What work did you do at the accused house?,I plastered the lid of the septic tank.,medium
+C037,W05,examination,At whose instance did you do the work?,At the instance of accused Md. Aslam.,high
+C037,W05,cross_examination,Did the accused confess the crime to police in your presence?,"No, I deny any such confession.",medium
+C037,W06,examination,Who was residing in the house?,"Md. Aslam, Meera Devi, Anjali and the deceased.",low
+C037,W06,cross_examination,Was Ranjeet permanently residing there?,"No, he was not a permanent resident.",low
+C037,W07,examination,Where was the deceased working?,At my sweet shop as a helper.,low
+C037,W07,examination,When did the deceased leave the job?,On 30.06.2013.,low
+C037,W08,examination,Did you conduct the post-mortem?,"Yes, on 01.12.2013.",low
+C037,W08,examination,Could you determine the cause of death?,"No, due to advanced decomposition.",high
+C037,W08,examination,Was time since death determined?,No definite opinion could be given.,high
+C038,W01,examination,What was the date of marriage of the deceased?,She was married on 28.05.1991.,low
+C038,W01,examination,Who was the husband of the deceased?,Hira Lal was her husband.,low
+C038,W01,examination,Were dowry demands made after marriage?,"Yes, Parbhati Devi and Gulab Devi demanded dowry.",low
+C038,W01,examination,Did the deceased complain to you?,"Yes, she complained of harassment.",low
+C038,W01,examination,Did the deceased complain to you?,She said Gulab Devi poured kerosene on her.,high
+C038,W01,examination,Did you say the deceased committed suicide?,I stated either murder or suicide due to harassment.,high
+C038,W02,examination,How were you related to the deceased?,She was my elder sister.,low
+C038,W02,examination,Did the deceased face cruelty?,"Yes, she was harassed for dowry.",low
+C038,W02,examination,Who used to harass her?,Parbhati Devi and Gulab Devi.,low
+C038,W03,examination,Did the deceased tell you about harassment?,"Yes, she told me about dowry harassment.",low
+C038,W03,examination,Did the deceased name anyone?,"Yes, Gulab Devi and Parbhati Devi.",low
+C038,W04,examination,What DD entry did you receive?,DD No.16A dated 05.11.1992.,low
+C038,W04,examination,Where did you go after receiving DD?,To Deen Dayal Upadhayay Hospital.,low
+C038,W04,examination,Was the victim fit to give statement initially?,"No, she was declared unfit at 5:00 PM.",low
+C038,W04,examination,What was seized from the spot?,A kerosene stove was seized.,low
+C038,W04,examination,Did you record neighbours’ statements?,"No, statements were not recorded.",high
+C038,W05,examination,When was the dying declaration recorded?,On 06.11.1992 at about 12:25 PM.,low
+C038,W05,examination,Was the deceased fit to give statement?,"Yes, she was declared fit by the doctor.",low
+C038,W05,examination,What did the deceased state?,Gulab Devi poured kerosene on her.,high
+C038,W06,examination,What opinion did you give at 5:00 PM?,The patient was unfit for statement.,low
+C038,W07,examination,When was the patient declared fit?,On 06.11.1992 at 12:25 PM.,low
+C038,W08,examination,What was the cause of death?,Shock and toxaemia due to burns.,low
+C038,W08,examination,What was the extent of burns?,100% burns of second and third degree.,low
+C038,W08,examination,Were any other injuries found?,No injuries other than burns were found.,low
+C038,W09,examination,What was the condition of the stove?,Burner was bent and washer missing.,medium
+C038,W09,examination,Was the stove functional as seized?,"No, it was not in working condition.",medium
+C039,W01,examination,Who conducted the post-mortem of Ashok Kumar?,I conducted the post-mortem examination.,low
+C039,W01,examination,How many injuries were found on the body?,Three injuries were found.,low
+C039,W01,examination,What type of injuries were present?,Two abrasions and one lacerated wound.,low
+C039,W01,examination,What was injury No.3?,It was an entry wound of a firearm projectile.,low
+C039,W01,examination,Was the injury sufficient to cause death?,"Yes, it was sufficient in the ordinary course of nature.",low
+C039,W02,examination,When was the FIR registered?,At about 7:45 AM on 17.04.1996.,low
+C039,W02,examination,On whose statement was FIR registered?,On the statement of Dharampal.,low
+C039,W03,examination,What information did you receive?,That a person had been shot at a petrol pump.,low
+C039,W03,examination,What DD entry was made?,DD No.7-B.,low
+C039,W04,examination,Where did you go after receiving DD No.7-B?,"To City Service Centre Petrol Pump, Mangolpuri.",low
+C039,W04,examination,What did you find at the spot?,Dead body of Ashok Kumar with bullet injury.,low
+C039,W04,examination,Whose statement did you record at the spot?,Statement of Dharampal.,low
+C039,W04,examination,What action did you take after recording the statement?,Sent it for registration of FIR.,low
+C039,W05,examination,Where were you working at the time of incident?,At City Service Centre Petrol Pump.,low
+C039,W05,examination,What vehicle came to the petrol pump?,A blue coloured TATA 407 tempo.,low
+C039,W05,examination,Who was driving the tempo?,Appellant Vijay.,low
+C039,W05,examination,Who was sitting next to the driver?,Appellant Hans Raj.,low
+C039,W05,examination,What demand was made by Vijay?,He demanded cash at pistol point.,low
+C039,W05,examination,What happened when you raised alarm?,Co-employees rushed to the spot.,low
+C039,W05,examination,Who fired the shot?,Hans Raj fired from the tempo.,low
+C039,W05,examination,Who was hit by the bullet?,Ashok Kumar was hit.,low
+C039,W06,examination,Where were you when the incident occurred?,Sleeping in the cabin at the petrol pump.,low
+C039,W06,examination,What alerted you?,Dharampal informed me about robbery.,low
+C039,W06,examination,What did you see outside?,Tempo fleeing and Ashok ahead of others.,low
+C039,W06,examination,Who fired the shot?,Hans Raj fired from the tempo.,low
+C039,W06,examination,Where did the bullet hit Ashok?,On his forehead.,low
+C039,W06,cross_examination,Could you see the driver of the tempo?,"No, my view was obstructed.",high
+C039,W07,examination,What did you do after taking over investigation?,Prepared site plan and seized exhibits.,low
+C039,W07,examination,What was seized from the spot?,Blood-stained earth and earth control.,low
+C039,W07,examination,Who took photographs of the scene?,Who took photographs of the scene?,low
+C039,W08,examination,What did you photograph?,Dead body and scene of crime.,low
+C039,W08,examination,How many photographs were taken?,Nine photographs.,low
+C039,W09,examination,When were the accused arrested?,On 29.04.1996.,low
+C039,W09,examination,What was recovered from them?,Country-made pistols.,low
+C039,W09,examination,Did the accused make disclosures?,"Yes, about their involvement.",medium
+C040,W16,examination,What DD entry was recorded and at what time?,DD entry No.60B was recorded at around 02:45 AM on 01.01.1996.,low
+C040,W17,examination,Where did you go after receiving the DD entry?,I went to AIIMS hospital with Const. Surender Singh.,low
+C040,W17,examination,What did the doctor tell you about the victim’s condition?,The doctor said the victim was not fit for making a statement.,low
+C040,W17,examination,Whom did you meet at the hospital who knew the assailants?,"I met Ambika Singh, father of the deceased.",low
+C040,W17,examination,What did you record from Ambika Singh?,I recorded his statement Ex.PW-3/A.,low
+C040,W17,examination,At what time did you make the endorsement for FIR?,At around 04:00 AM on 01.01.1996.,low
+C040,W17,examination,What happened to the victim at around 03:15 AM?,The victim succumbed to injuries around 03:15 AM.,low
+C040,W12,examination,Which FIR was registered in this case?,FIR No.4/96 was registered.,low
+C040,W12,examination,When was the FIR registered?,At about 04:25 AM on 01.01.1996.,low
+C040,W12,examination,What did you do after registering FIR?,I handed over copy of FIR for delivery to the Magistrate.,low
+C040,W12,examination,Did you make any roznamcha/DD entries regarding FIR and delivery?,"Yes, entries were recorded regarding registration and delivery.",low
+C040,W14,examination,When did you leave to deliver the FIR to the Magistrate?,At about 05:00 AM on 01.01.1996.,low
+C040,W14,examination,When did you return after delivering the FIR?,At about 06:10 AM on 01.01.1996.,low
+C040,W03,examination,When did the appellants come to your house that night?,Around 12:30 AM in the intervening night of 31.12 and 01.01.,low
+C040,W03,examination,What did the appellants say when calling the deceased?,“Happy New Year…come out…we will embrace each other.”,low
+C040,W03,examination,Did the deceased leave with the appellants?,"Yes, he went with them saying he would return shortly.",low
+C040,W03,examination,What did you hear at around 01:30 AM?,I heard the deceased shouting that he had been attacked and to save him.,low
+C040,W03,examination,Where did you find the deceased after the cries?,Lying injured on the ground about 20–25 paces from my house.,low
+C040,W03,examination,What did you observe on his body?,Wounds on front and back and blood oozing out.,low
+C040,W03,examination,What did the deceased tell you when asked who attacked him?,He said Dharma and Dhantru (the appellants) stabbed him with a knife.,low
+C040,W03,examination,Who helped take him to hospital?,I and neighbour Balwant Singh took him in a car driven by Om Parkash.,low
+C040,W03,examination,What did the deceased say while being taken to hospital?,"He said the appellants told him, “you have seen our notoriety…what we can do.”",low
+C040,W03,examination,When did the deceased become unconscious and what followed?,He became unconscious and was admitted; he died around 03:15 AM.,low
+C040,W02,examination,Where were you at about 12:30 AM when appellants arrived?,I was at my parents’ house watching television.,low
+C040,W02,examination,What did the appellants tell the deceased?,They called him out to give New Year greetings.,low
+C040,W02,examination,Did your father stop the deceased from going?,"Yes, but the deceased said he would return in a while.",low
+C040,W02,examination,What did you hear at around 01:30 AM?,I heard the deceased shouting he had been attacked and to save him.,low
+C040,W02,examination,What did you see when you reached outside?,The deceased was lying injured 20–25 paces away and blood was oozing.,low
+C040,W02,examination,What did the deceased tell you about the attackers?,He said the appellants stabbed him with knives.,high
+C040,W02,examination,Who arranged the vehicle to take him to hospital?,Neighbour Om Parkash brought his car keys and car.,low
+C040,W02,examination,What item did you identify as belonging to one appellant?,I identified a jacket as worn by appellant Dharminder that night.,medium
+C040,W04,examination,Who prepared the MLC of the deceased?,I prepared the MLC Ex.PW-4/A.,low
+C040,W04,examination,What was the condition of the patient at that time?,"Semi-conscious, disoriented, but speaking.",high
+C040,W05,examination,What did you hear at around 01:30 AM?,I heard noises outside during New Year program.,low
+C040,W05,examination,What did you see outside?,The deceased lying injured; father and sister near him.,low
+C040,W05,examination,What did the deceased say about who attacked him?,He said the appellants stabbed him with knives.,high
+C040,W05,examination,What did you do after seeing the injured?,I brought my car keys to take him to the hospital.,low
+C040,W05,examination,What did the deceased say in the car?,He repeated the “notoriety/what we can do” statement.,medium
+C040,W06,examination,What did you see when you came outside at about 01:30 AM?,A crowd gathered and the deceased was injured.,low
+C040,W06,examination,What did you see when you came outside at about 01:30 AM?,He said the appellants attacked him.,high
+C040,W06,examination,Who took the deceased to hospital?,"I, the father, and Om Parkash took him in Om Parkash’s car.",low
+C040,W06,examination,What did you witness about recoveries later?,Appellants got recovered knife/shirt/dagger from their houses in my presence.,medium
+C040,W06,cross_examination,Were you present during the disclosure/recovery process?,"Yes, recoveries were made in my presence as a public witness.",medium
+C040,W18,examination,What did you prepare at hospital regarding death?,Inquest papers and post-mortem application were prepared.,low
+C040,W18,examination,What did you notice at the place of occurrence?,Blood-stained earth at two spots; a jacket near where deceased was found.,low
+C040,W18,examination,What did you seize from the scene?,Blood-stained earth/earth control and a jacket (seized via memos).,low
+C040,W18,examination,What did you prepare to document the scene?,Rough site plan of the place of occurrence.,low
+C040,W18,examination,When were the appellants arrested?,At about 02:15 PM on 01.01.1996 (on secret information).,low
+C040,W18,examination,Did the appellants make disclosure statements?,Yes—Dharminder disclosed dagger and shirt; Mahesh disclosed knife.,medium
+C040,W18,examination,What was recovered at Dharminder’s instance?,A dagger and shirt concealed in his house.,medium
+C040,W18,examination,What was recovered at Mahesh’s instance?,A knife concealed on the roof of his house.,medium
+C040,W18,examination,What did you learn about Mahesh’s medical visit?,Mahesh had visited AIIMS around 03:00 AM and his MLC was prepared.,medium
+C040,W18,cross_examination,Why did your post-mortem application mention “unknown boys”?,"You said it wasn’t established by evidence at that time, so you wrote “unknown.”",high
+C040,W07,examination,When was the post-mortem conducted?,Around 03:30 PM on 01.01.1996.,low
+C040,W07,examination,What kind of injuries were found?,Multiple stab wounds and one contusion/swelling near eye.,low
+C040,W07,examination,What was the cause of death?,Hemorrhagic shock due to multiple injuries.,low
+C040,W07,examination,Were the injuries ante-mortem?,"Yes, injuries were ante-mortem.",low
+C040,W07,examination,Were the injuries caused by sharp-edged weapons?,"Yes, caused by sharp-edged weapon.",low
+C040,W07,examination,Could the recovered knife/dagger cause the stab injuries?,"Yes, injuries were possible by the recovered weapons.",medium
+C040,W15,examination,What did the doctor hand over after post-mortem?,Clothes and blood sample of the deceased.,low
+C040,W15,examination,Were the exhibits seized through memos?,"Yes, seized via seizure memos after post-mortem.",low
