@@ -19,4 +19,20 @@ text_input = st.text_area("Or paste witness statement here", height=200)
 st.markdown("---")
 
 if st.button("Analyze Statement"):
-    st.info("Analysis logic will be integrated here.")
+    def analyze_text(text):
+    # Placeholder logic – real analysis will be plugged in later
+    return {
+        "consistency": "Inconsistency Detected: 9 PM vs 10 PM",
+        "risks": [
+            "High-Risk Area: Presence at Crime Scene",
+            "Time Discrepancy Issue"
+        ],
+        "suggestions": [
+            "Clarify exact time of event",
+            "Explain your location clearly"
+        ],
+        "preparedness": "MODERATE"
+    }
+
+    
+    
