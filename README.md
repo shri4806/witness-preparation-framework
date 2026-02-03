@@ -22,3 +22,9 @@ Witness preparation in criminal cases is largely manual and time-consuming. Lega
 ## Project Status
 Initial setup and model development in progress.
 
+## Future Enhancements
+- Supervised calibration of similarity thresholds using annotated statement pairs
+- Topic classification to assist large-scale comparison
+- Interactive user interface for document upload and visualization
+
+
